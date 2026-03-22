@@ -34,8 +34,8 @@ Below are the execution results for each task as seen in the console:
 ![Task 2 Screen](screenadsass1/Task2.png)
 
 ### Task 3: Is Prime Number
-![Task 3 Screen](screenadsass1/Task3.1.png)
-(screenadsass1/Task3.2.png)
+![Task 3.1 Screen](screenadsass1/Task3.1.png)
+![Task 3.2 Screen](screenadsass1/Task3.2.png)
 
 ### Task 4: Factorial
 ![Task 4 Screen](screenadsass1/Task4.png)
