@@ -10,14 +10,14 @@ The main objective is to implement fundamental algorithms without using any loop
 
 1.  **Task 1**: Output the digits of a number in order.
 2.  **Task 2**: Find the arithmetic mean (average) of an array.
-3.  **Task 4**: Calculate the factorial of a number ($n!$).
-4.  **Task 5**: Find the $n$-th Fibonacci number.
-5.  **Task 6**: Calculate the power of a number ($a^n$).
-6.  **Task 7**: Reverse a sequence of numbers (using recursion stack).
-7.  **Task 8**: Check if a string consists only of digits.
-8.  **Task 9**: Count the number of characters in a string.
-9.  **Task 10**: Find the Greatest Common Divisor (GCD) using the Euclidean Algorithm.
-10. **Task 3**: Determine if a number is Prime.
+3.  **Task 3**: Determine if a number is Prime.
+4.  **Task 4**: Calculate the factorial of a number ($n!$).
+5.  **Task 5**: Find the $n$-th Fibonacci number.
+6.  **Task 6**: Calculate the power of a number ($a^n$).
+7.  **Task 7**: Reverse a sequence of numbers (using recursion stack).
+8.  **Task 8**: Check if a string consists only of digits.
+9.  **Task 9**: Count the number of characters in a string.
+10.  **Task 10**: Find the Greatest Common Divisor (GCD) using the Euclidean Algorithm.
 
 ## Implementation Details
 - **Language**: Java
